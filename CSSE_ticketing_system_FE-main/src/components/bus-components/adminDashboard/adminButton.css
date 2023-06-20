@@ -1,0 +1,10 @@
+.sideBarBtn{
+    width: 250px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    height: 60px;
+    background-color: rgba(214, 25, 192, 0.792);
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+}
